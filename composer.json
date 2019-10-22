@@ -1,15 +1,20 @@
 {
-    "name": "aztecweb/form",
+    "name": "aztec/form",
     "description": "A new way to manage forms on WordPress.",
     "type": "library",
-    "require": {
-        "symfony/form": "^4.3"
-    },
+    "version": "0.1.0",
     "license": "GPL-2.0",
     "authors": [
         {
             "name": "Eduardo Pittol",
-            "email": "edpittol@gmail.com"
+            "email": "pittol@aztecweb.net"
+        },
+        {
+            "name": "Lucas Hart",
+            "email": "lucas@aztecweb.net"
         }
-    ]
+    ],
+    "require": {
+        "symfony/form": "^4.3"
+    }
 }
